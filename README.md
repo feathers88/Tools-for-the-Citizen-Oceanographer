@@ -1,5 +1,6 @@
 # Tools for the Citizen Oceanographer
-A handy field kit for exploring and understanding your ocean 
+
+A handy field kit for exploring and understanding your ocean. This list is a community effort. Feel free to add the tools you find indespensible to this list. 
 
 ##The Field Kit
 
