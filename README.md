@@ -11,3 +11,5 @@ A handy field kit for exploring and understanding your ocean. This list is a com
 3. [Jeweler's Loupe](http://amzn.to/1MXl7uO) - There are dozens of options for small, hand-held magnifying glasses. Andrew particularly likes this cheap 60X pocket microscope with two differnt illumination settings. 
 
 ##Free and Open-source Software
+
+1. [R](www.r-project.org) is one of the most versatile and widely used statstical packages out there. The [`oce` package](http://dankelley.github.io/oce/)* and the `gsw` package (on which `oce` depends for the TEOS-10 equations) are extremely useful. The `ocedata` package contains lots of useful datasets.
