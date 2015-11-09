@@ -16,4 +16,4 @@ A handy field kit for exploring and understanding your ocean. This list is a com
  
 ##Open Access Papers
 1. [Lauro *et al.* 2014](http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1001947) The Common Oceanographer: Crowdsourcing the Collection of Oceanographic Data. *PLOS Biology.* 10.1371/journal.pbio.1001947.
-2. [Thaler *et al.* 2014](http://tropicalconservationscience.mongabay.com/content/v8/tcs_v8i3_711-717_Thaler.pdf) Robots as vectors for marine invasions: best practices for minimizing transmission of invasive species via observation-class ROVs. *Tropical Conservation Science.* 8: 711-717.
+2. [Thaler *et al.* 2015](http://tropicalconservationscience.mongabay.com/content/v8/tcs_v8i3_711-717_Thaler.pdf) Robots as vectors for marine invasions: best practices for minimizing transmission of invasive species via observation-class ROVs. *Tropical Conservation Science.* 8: 711-717.
